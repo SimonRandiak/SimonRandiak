@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimonRandiak 16 years old student 
+- 👋 Hi, I’m @SimonRandiak 17 years old student 
 - 👀 I’m interested in Network Programming
 - 🌱 I’m currently learning C programming language, Linux, Python language
 - 💞️ I’m looking to collaborate on almost everything listed below 
